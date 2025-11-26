@@ -17,8 +17,11 @@ Users can upload a painting image and instantly see:
 - Supports JPG / JPEG / PNG
 
 # Model
-Dataset: Painting Eras Detection Classification Dataset by ArtAncestry
-Link: https://share.google/rqdLnLG0PWmTDK0zf
+Raw Dataset: Painting Eras Detection Classification Dataset by ArtAncestry
+https://share.google/rqdLnLG0PWmTDK0zf
+
+Trained Dataset:
+https://drive.google.com/drive/folders/1heZ_RkMHTFwX5y_xuMbqNWr0fuvIr1w8?usp=sharing
 
 Trained on 3 classes:
 - Baroque paintings
@@ -39,4 +42,5 @@ Preprocessing:
 - pip install -r requirements.txt
 
 ▶️ Run the App:
+- run main.ipynb
 - streamlit run app.py

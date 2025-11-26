@@ -1,4 +1,4 @@
-# Painting Era Classifier
+# Painting Era Classifier 𐔌՞. .՞𐦯
 Identifying artistic periods using a deep learning model.
 
 # Overview
@@ -17,8 +17,7 @@ Users can upload a painting image and instantly see:
 - Supports JPG / JPEG / PNG
 
 # Model
-Dataset:
-Painting Eras Detection Classification Dataset by ArtAncestry
+Dataset: Painting Eras Detection Classification Dataset by ArtAncestry
 Link: https://share.google/rqdLnLG0PWmTDK0zf
 
 Trained on 3 classes:

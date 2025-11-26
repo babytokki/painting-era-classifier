@@ -31,12 +31,12 @@ Preprocessing:
 - Saved in TensorFlow SavedModel format
 
 # Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/painting-era-classifier.git
-cd painting-era-classifier
+1️⃣ Clone the repository:
+- git clone https://github.com/yourusername/painting-era-classifier.git
+- cd painting-era-classifier
 
-2️⃣ Install dependencies
-pip install -r requirements.txt
+2️⃣ Install dependencies:
+- pip install -r requirements.txt
 
-▶️ Run the App
-streamlit run app.py
+▶️ Run the App:
+- streamlit run app.py

@@ -35,7 +35,7 @@ Preprocessing:
 
 # Installation
 1️⃣ Clone the repository:
-- git clone https://github.com/yourusername/painting-era-classifier.git
+- git clone https://github.com/babytokki/painting-era-classifier.git
 - cd painting-era-classifier
 
 2️⃣ Install dependencies:
